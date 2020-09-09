@@ -1,1 +1,5 @@
-__pycache__
+{% comment %} Git Ignore Py Cache {% endcomment %}
+__pycache__/
+
+
+*__pycache__
