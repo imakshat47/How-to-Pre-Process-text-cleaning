@@ -5,7 +5,7 @@
 ### - Converting whole text to lower case
 ### - Handle Emojies and Cleaning Emojies
 ### - Tokernizer
-### - Remove non alphabetics
+### - Remove non-alphabetics
 ### - Filter Stop Words
 ### - Remove single Chapracter Words (Commented)
 
@@ -15,7 +15,7 @@
 
 ## How to run:
 
-### - Clone repo
+### - Clone this repo
 ### - Run following command in shell:
     python main.py
 
